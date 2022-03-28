@@ -2,7 +2,7 @@
 
 <h4 align="center"> Kakashi Music Is A Part Of Alexa Bot Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Team Yukki...</h4>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://wallpaperaccess.com/full/812207.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/redmoon0x"><img src="https://wallpaperaccess.com/full/812207.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/jankarikiduniya/AasthaMusicBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
@@ -15,9 +15,10 @@
 
 > ⭐️ Thanks to everyone for using Alexa Server, That is the greatest pleasure we have !
 
-### Asad– History This Bot Is Clone On [Team Yukki](https://github.com/TeamYukki)
+### Red-moon This Bot Is Clone On [Team Yukki](https://github.com/TeamYukki)
 
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+
+
 
 ## Features ❤️”®
 
