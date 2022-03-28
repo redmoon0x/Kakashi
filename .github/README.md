@@ -1,8 +1,8 @@
-<h1 align="center"><b>❤️ AASTHA MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>KAKASHI MUSICBOT🌙</b></h1>
 
-<h4 align="center">Aastha Music Is A Part Of Alexa Bot Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Team Yukki...</h4>
+<h4 align="center"> Kakashi Music Is A Part Of Alexa Bot Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Team Yukki...</h4>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/d8db78924684b505c3048.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://wallpaperaccess.com/full/812207.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/jankarikiduniya/AasthaMusicBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
